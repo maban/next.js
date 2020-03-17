@@ -57,7 +57,7 @@
     "htmlescape": "1.1.1",
     "json-loader": "0.5.4",
     "loader-utils": "0.2.16",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "mz": "2.4.0",
     "path-match": "1.2.4",
     "react": "15.3.2",
